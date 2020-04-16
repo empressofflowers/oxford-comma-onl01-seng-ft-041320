@@ -7,6 +7,4 @@ def oxford_comma(array)
 
   elsif
 
-  end
-
 end
