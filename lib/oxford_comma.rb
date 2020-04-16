@@ -1,7 +1,7 @@
 def oxford_comma(array)
-  if 
+  if
 
-  elsif 
+  elsif
 
   elsif
 
